@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+
+body{
+font-family: 'Josefin Sans', sans-serif;
+background-image: linear-gradient(to right, rgb(206, 204, 204), rgb(77, 77, 77));
+
+
+}
+
+.titulo{
+   text-align: center;
+   margin-top: 150px;
+}
+
+
+
+
+.p {
+    text-align: center;
+}
